@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/res/imgs">
+        <file>res/1.png</file>
+        <file>res/-1.png</file>
+        <file>res/2.png</file>
+        <file>res/-2.png</file>
+        <file>res/3.png</file>
+        <file>res/-3.png</file>
+        <file>res/4.png</file>
+        <file>res/-4.png</file>
+        <file>res/5.png</file>
+        <file>res/-5.png</file>
+        <file>res/6.png</file>
+        <file>res/-6.png</file>
+        <file>res/7.png</file>
+        <file>res/8.png</file>
+        <file>res/9.png</file>
+        <file>res/10.png</file>
+        <file>res/-11.png</file>
+        <file>res/-12.png</file>
+    </qresource>
+</RCC>
